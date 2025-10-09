@@ -4,8 +4,10 @@
     {
       "domain_suffix": [
         "phfund.com.cn",
+        "phfund.net",
         "phfund.com",
-        "phfund.net"
+        "phfund.net.cn"
       ]
     }
   ]
+}

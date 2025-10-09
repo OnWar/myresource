@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": "phfund.com.cn",
+      "domain_suffix": "phfund.com",
+      "domain_suffix": "phfund.cn",
+      "domain_suffix": "phfund.net"
+    }
+  ]
+}

@@ -2,8 +2,9 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": "ctee.com.tw",
-                        "gitflic.ru"
+      "domain_suffix": [
+        "ctee.com.tw",
+        "gitflic.ru"      ]
     }
   ]
 }

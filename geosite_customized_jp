@@ -2,7 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": "tradingview.com"
+      "domain": [
+        "notebooklm.google"
+      ],
+      "domain_suffix": [
+        "tradingview.com"
+      ]
     }
   ]
 }
